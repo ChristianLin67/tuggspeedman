@@ -16,13 +16,13 @@ To test my idea, I used three columns from the COMP 110 survey. These were hours
 ## Visualizations
 
 ### How students are distributed across social media usage
-<img src="/tuggspeedman/imgs/chart1.png" alt="Count plot showing distribution of students across social media usage categories" width="600"/>
+<img src="/tuggspeedman/static/imgs/chart1.png" alt="Count plot showing distribution of students across social media usage categories" width="600"/>
 
 ### Course interest by social media usage
-<img src="/tuggspeedman/imgs/chart2.png" alt="Box plot of interesting scores grouped by social media usage" width="600"/>
+<img src="/tuggspeedman/static/imgs/chart2.png" alt="Box plot of interesting scores grouped by social media usage" width="600"/>
 
 ### Interest in CS connections by social media usage
-<img src="/tuggspeedman/imgs/chart3.png" alt="Bar plot of interested_connections by social media usage" width="600"/>
+<img src="/tuggspeedman/static/imgs/chart3.png" alt="Bar plot of interested_connections by social media usage" width="600"/>
 
 ## Conclusion
 
